@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey, I'm Aqa!
 
-<!--
-**AqaProgramming/AqaProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently am not doing much coding because
+ * Lack of Ideas
+ * Less motivation
+ * I can't seem to learn much as of now, due to not knowing where, when, or how to learn (I have no computer, nor anything to buy coding courses with.)
+But I'm most likely learning C++ or Python.
 
-Here are some ideas to get you started:
+If you want socials and stuff, check out my [Linktree](linktr.ee/aqadragon)..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I might make a project later, who knows. I'll make it when I'm good enough at programming..
+
+'Till then, see you!
