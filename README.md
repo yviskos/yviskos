@@ -1,5 +1,5 @@
-###Hey, I'm Aqa!
-![aqadragon picture](https://pbs.twimg.com/media/F27iwm6X0AEZcqJ?format=webp&name=900x900)
+### Hey, I'm Aqa!
+![aqadragon picture](https://pbs.twimg.com/media/F27iwm6X0AEZcqJ?format=webp&name=200x200)
 I currently am not doing much coding because
  * Lack of Ideas
  * Less motivation
