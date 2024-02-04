@@ -10,7 +10,8 @@ You can see what I'm working on in a programming (and scripting!) sense here:
 
 🤔 I am planning on learning:
  * Python
-   
-💻 I am working on:
- * A personal website
+
+###What I'm working on
+---
+* Creating a personal website
 
