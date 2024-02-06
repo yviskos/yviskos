@@ -13,5 +13,5 @@ You can see what I'm working on in a programming (and scripting!) sense here:
 
 ### What I'm working on
 ---
-* Creating a personal website
+Nothing rn
 
