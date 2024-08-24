@@ -11,4 +11,5 @@ You can see what I'm working on in a programming (and scripting!) sense here:
 ### What I'm working on
 ---
 Nothing much rn.
-
+---
+[![Yviskos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yviskos)](https://github.com/anuraghazra/github-readme-stats)
