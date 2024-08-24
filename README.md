@@ -12,4 +12,4 @@ You can see what I'm working on in a programming (and scripting!) sense here:
 ---
 Nothing much rn.
 ---
-[![Yviskos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yviskos)](https://github.com/anuraghazra/github-readme-stats)
+[![Yviskos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yviskos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
