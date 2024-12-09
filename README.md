@@ -10,11 +10,6 @@ I'm a emerging developer and artist from Connecticut.
 - CSS
 - Typescript
 
-### 👍 I know:
-- HTML
-- Git
-- Markdown
-
 ### 🩷 I love:
 - Gaming
 - CLI tools
