@@ -7,6 +7,7 @@ I'm a emerging developer and artist from Connecticut.
 - Rust
 
 ### 📝 I'm learning:
+- HTML
 - CSS
 - Typescript
 
